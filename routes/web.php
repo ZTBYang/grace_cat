@@ -18,3 +18,4 @@ Route::get('/', function () {
     return view('welcome');
 });
 Route::get('/test', [Forum::class, 'testGit']);
+Route::get('/test1', [Forum::class, 'testGitHooks']);
