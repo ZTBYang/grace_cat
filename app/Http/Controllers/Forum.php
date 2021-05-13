@@ -11,6 +11,6 @@ class Forum extends Controller
     }
 
     public function testGitHooks() {
-        return '我只心疼giegie';
+        return '不像我，我只心疼giegie~~~~~~~';
     }
 }
